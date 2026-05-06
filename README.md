@@ -1,1 +1,1 @@
-# Healthcare-RAG-Assistant-Click-uploading-an-existing-file
+# Healthcare-RAG-Assistant
